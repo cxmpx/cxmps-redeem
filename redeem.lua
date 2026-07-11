@@ -680,7 +680,7 @@ local function createUI()
     HeaderLabel.Position = UDim2.new(0, 20, 0, 0)
     HeaderLabel.BackgroundTransparency = 1
     HeaderLabel.RichText = true
-    HeaderLabel.Text = '<b>Gamma<font color="#A65CFF"> Hub</font></b>'
+    HeaderLabel.Text = '<b>CXMPZ<font color="#A65CFF"> Hub</font></b>'
         .. '  <font color="#7C7C8C" size="11">Code Copier</font>'
     HeaderLabel.TextColor3 = Color3.fromRGB(240, 240, 255)
     HeaderLabel.TextSize = 16
@@ -770,7 +770,7 @@ local function createUI()
     InfoText.TextColor3 = Color3.fromRGB(215, 205, 230)
     InfoText.TextSize = 12
     InfoText.Font = Enum.Font.Gotham
-    InfoText.Text = '<b><font color="#A65CFF">Gamma Hub — How to use</font></b>\n\n'
+    InfoText.Text = '<b><font color="#A65CFF">CXMPZ — How to use</font></b>\n\n'
         .. '• <b>Start / Stop</b>: turn code detection on or off.\n'
         .. '• <b>Text Formatting</b>: how copied codes are cased.\n'
         .. '• <b>Auto-Write</b>: types detected codes into the game\'s code box (must be open).\n'
